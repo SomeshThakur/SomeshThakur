@@ -1,6 +1,7 @@
 ### Somesh Thakur
 
-- 🔭 I’m currently working on *Entrerprise softwares* under Fin-tech domain with **Angular 11+, Node JS and Mongo DB**. 
+- 🔭 I’m currently working on Intel's Analyzer tools like VTune
+- 🔭 I had worked on *Entrerprise softwares* under Fin-tech domain with **Angular 11+, Node JS and Mongo DB**. 
 - 🌱 I’m currently learning Flutter, Android in my free time.
 - 👯 I’m looking to collaborate on JS Community and Open source projects 
 - 💬 Ask me about JS, Java, Android, DS, Alog, Music, EDM and Space? 
